@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0042ED&height=300&section=header&text=Hello%20UmKing%20World!&fontSize=80&fontColor=D9E5FF)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0042ED&height=200&section=header&text=Hello%20UmKing%20World!&fontSize=80&fontColor=D9E5FF)
 
 
 ### Hi there 👋
