@@ -9,7 +9,7 @@
 
 ![slice](https://capsule-render.vercel.app/api?type=waving&color=0042ED&height=200&text=Hi%20There&fontAlign=50&fontColor=FFFFFF&fontAlignY=30&desc=welcome%20to%20my%20GitHub%20Profile&descAlign=70.&descAlignY=50) 
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Um-king/Um-king** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
