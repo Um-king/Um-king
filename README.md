@@ -1,7 +1,10 @@
 <!--![header](https://capsule-render.vercel.app/api?type=slice&color=0042ED&height=200&section=header&text=Hello%20UmKing%20World!&fontSize=80&fontColor=D9E5FF)-->
+
 <!-- ![slice](https://capsule-render.vercel.app/api?type=slice&color=0042ED&height=200&text=Hello&fontAlign=70&fontColor=D9E5FF&rotate=13&fontAlignY=25&desc=umking%20world&descAlign=70.&descAlignY=44) -->
 
-![slice](https://capsule-render.vercel.app/api?type=slice&color=0042ED&height=200&text=Hello%20World!&fontAlign=70&fontColor=FFFFFF&rotate=13&fontAlignY=35&descAlign=50.&descAlignY=44&fontSize=60)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=0042ED&height=200&text=Hi%20There&fontAlign=67&fontColor=FFFFFF&rotate=13&fontAlignY=25&desc=welcome%20to%20my%20GitHub%20Profile&descAlign=83.&descAlignY=44) 
+
+<!-- ![slice](https://capsule-render.vercel.app/api?type=slice&color=0042ED&height=200&text=Hello%20World!&fontAlign=70&fontColor=FFFFFF&rotate=13&fontAlignY=35&descAlign=50.&descAlignY=44&fontSize=60) -->
 
 ### Hi there 👋
 
