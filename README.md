@@ -7,7 +7,7 @@
 
 <!-- slice 최종 ![slice](https://capsule-render.vercel.app/api?type=slice&color=0042ED&height=200&text=Hi%20There&fontAlign=67&fontColor=FFFFFF&rotate=13&fontAlignY=25&desc=welcome%20to%20my%20GitHub%20Profile&descAlign=83.&descAlignY=44) -->
 
-![slice](https://capsule-render.vercel.app/api?type=waving&color=0042ED&height=200&text=Hi%20There&fontAlign=50&fontColor=FFFFFF&fontAlignY=30&desc=welcome%20to%20my%20GitHub%20Profile&descAlign=70.&descAlignY=50) 
+![slice](https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=200&text=Hi%20There&fontAlign=50&fontColor=FFFFFF&fontAlignY=30&desc=welcome%20to%20my%20GitHub%20Profile&descAlign=70.&descAlignY=50) 
 
 <!-- ### Hi there 👋 -->
 
