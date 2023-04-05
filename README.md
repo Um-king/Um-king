@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0042ED&height=300&section=header&text=Hello%20UmKing%20World!&fontSize=80&fontColor=D9E5FF)
+
+
 ### Hi there 👋
 
 <!--
@@ -5,7 +8,6 @@
 
 Here are some ideas to get you started:
 
-[shark](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
