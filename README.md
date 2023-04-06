@@ -9,6 +9,8 @@
 <br>
 <br>
 
+
+
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=I'm+YoungChul👋👋&font=Redressed&size=40)](https://git.io/typing-svg)-->
 
 
@@ -20,7 +22,6 @@
    <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://https://www.facebook.com"/></a>&nbsp
   <a href="mailto:dudcjf3232@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dudcjf3232@gmail.com"/></a>
 </p>
-  <br>
   <br>
 
   
