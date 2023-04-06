@@ -8,6 +8,8 @@
 </p>
 <br>
 
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=I'm+YoungChul👋👋&font=Redressed&size=40)](https://git.io/typing-svg)-->
+
 <h4 align = "center">📫 Contacts </h4>
 
 
@@ -36,6 +38,9 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
+
+
+<!-- ## 커밋 내역에 대한 랭크 <a href="https://opgc.me/#/users/Um-king" target="_blank"><img src="https://api.opgc.me/githubs/users/Um-king/tag/?theme=basic" /></a> -->
 
 <!--
 **Um-king/Um-king** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
