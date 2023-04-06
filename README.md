@@ -8,7 +8,7 @@
 </p>
 <br>
 
-<h4 align = "center">🚀Follow Me🚀</h4>
+<h4 align = "center">📫 Contacts </h4>
 
 
 <p align = "center">
@@ -21,7 +21,7 @@
 
   
   
-<h4 align="center">📚 Tech Stack 📚</h4>
+<h4 align="center">📚 Tech Stack </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
