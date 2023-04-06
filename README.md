@@ -1,5 +1,8 @@
 
-![slice](https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=200&text=Hi%20There&fontAlign=50&fontColor=FFFFFF&fontAlignY=30&desc=welcome%20my%20GitHub%20Profile&descAlign=70.&descAlignY=50) 
+<!-- ![slice](https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=200&text=Hi%20There&fontAlign=50&fontColor=FFFFFF&fontAlignY=30&desc=welcome%20my%20GitHub%20Profile&descAlign=70.&descAlignY=50) 
+ -->
+ 
+ ![slice](https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=200&text=Welcome%20to%20My%20GitHub%20Profile&fontColor=FFFFFF&fontAlignY=30&fontSize=50) 
 
   
 <h3 align = "center">I'm YoungChul! 👋</h3>
