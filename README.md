@@ -13,7 +13,7 @@
 
 
 
-<h4 align = "center">📫 Contacts </h4> <hr/>
+<h4 align = "center">📫 Contacts </h4>
 <p align = "center">
   <a href="https://umking.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory%20Blog-FF5722?&style=flat-square&logo=Blogger&logoColor=white&link=https://umking.tistory.com/"/></a>&nbsp
   <a href="https://www.instagram.com/youngchulii__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/youngchulii__/"/></a>&nbsp
@@ -25,7 +25,7 @@
 
   
 
-<h4 align="center">📚 Tech Stack </h4> <hr/>  
+<h4 align="center">📚 Tech Stack </h4> 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
