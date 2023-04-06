@@ -13,7 +13,7 @@
 
 <div align = "center">
 <a href="https://github.com/Um-king"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Um-king&theme=default" alt="Umking's github stats" /></a>
-<a href="https://github.com/Um-king"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Um-king&layut=compact&theme=default"/></a>
+<a href="https://github.com/Um-king"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Um-king&layout=compact"/></a>
 </div>
 
 #
@@ -21,6 +21,8 @@
 
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=I'm+YoungChul👋👋&font=Redressed&size=40)](https://git.io/typing-svg)-->
+
+
 
 
 
