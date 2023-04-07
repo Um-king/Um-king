@@ -18,11 +18,10 @@
 <a href="https://github.com/Um-king"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Um-king&layout=compact"/></a>
 </div>
 
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudcjf3232)]()-->
 #
 <br>
 
-
+<!-- <a href="https://github.com/Um-king"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dudcjf3232"></a>-->
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=I'm+YoungChul👋👋&font=Redressed&size=40)](https://git.io/typing-svg)-->
 
 
