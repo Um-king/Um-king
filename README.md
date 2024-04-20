@@ -7,7 +7,7 @@
  ![slice](https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=200&text=Hi,%20There&fontColor=FFFFFF&fontAlignY=40&fontSize=40) 
 
   
-<h3 align = "center">I'm YoungChul! 👋</h3>
+<h3 align = "center">I'm YoungChul 👋</h3>
 <p align = "center">
  <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUm-king&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </p>
